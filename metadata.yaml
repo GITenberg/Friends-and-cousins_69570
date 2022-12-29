@@ -5,6 +5,9 @@ contributor:
     agent_name: Brown, Ethel C.
     gutenberg_agent_id: '55323'
     url: http://www.gutenberg.org/2009/agents/55323
+covers:
+- cover_type: archival
+  image_path: 69570-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Abbie Farwell
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5282
     wikipedia: https://en.wikipedia.org/wiki/Abbie_Farwell_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69570#Friends-and-cousins
 gutenberg_issued: '2022-12-18'
 identifiers:
   gutenberg: '69570'
